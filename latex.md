@@ -1,4 +1,4 @@
-# Visual Studio Code上でLaTeXのコンパイルをできるようにする
+# Visual Studio Codeで最低限のLaTeX環境を作る
 
 ## LaTeXとVisual Studio Codeについて
 
