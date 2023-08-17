@@ -36,6 +36,10 @@ TeX Wikiの[このページ](https://texwiki.texjp.org/?TeX%E5%85%A5%E6%89%8B%E6
 
 Windowsの人は**TeX Live**、Macの人は**MacTeX**をインストールします。
 OS別のTeXのインストール方法のページへのリンクに飛んで、それに従えば問題なく完了するはずです。
+Macの人はHomebrewでインストールできる環境を整えた方がのちのち楽だと思います。
+```
+brew install --cask　mac-no-gui
+```
 
 **TeX Live**というのは、TeXの本体と、それをサポートする様々なパッケージが一緒に入ったお得セット(Distributionというらしい)です。
 非常に特殊なことをしようとしない限り、TeX Liveのみで十分に完結すると思います(今のところ、私は特に困ったことはありません)。
