@@ -38,7 +38,7 @@ Windowsの人は**TeX Live**、Macの人は**MacTeX**をインストールしま
 OS別のTeXのインストール方法のページへのリンクに飛んで、それに従えば問題なく完了するはずです。
 Macの人はHomebrewでインストールできる環境を整えた方がのちのち楽だと思います。（M2チップの人はなんかHomebrewがうまくいかない可能性があります　実際自分もうまくいきませんでした　）
 ```
-brew install --cask　mac-no-gui
+brew install --cask　mactex-no-gui
 ```
 
 **TeX Live**というのは、TeXの本体と、それをサポートする様々なパッケージが一緒に入ったお得セット(Distributionというらしい)です。
